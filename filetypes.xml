@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="note1" type="PLAIN_TEXT" />
       <mapping pattern="note" type="PLAIN_TEXT" />
+      <mapping ext="xml_bak" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
